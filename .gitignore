@@ -1,0 +1,25 @@
+_berg
+refroot
+venv/
+.env
+.venv
+env/
+*.env
+
+# Unit test / coverage reports
+.coverage
+coverage.xml
+tests.xml
+unit-test.xml
+integration-test.xml
+system-test.xml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Service logs
+*.log.*
+
+.vscode/
